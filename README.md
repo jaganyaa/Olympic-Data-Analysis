@@ -10,7 +10,10 @@ The "noc_region" table provides the mapping between the National Olympic Committ
 
 To extract insights based on the questions given, SQL queries will be written in query.sql file
 
-Module 1: Cleaning the dataset
+Module 1: 
+
+Cleaning the dataset
+
 Task 1:
 
 The initial stage of the project involves preprocessing two distinct datasets that will be used('dataset_olympics' and 'noc_region'). The data cleaning process is crucial before we can proceed to upload these datasets into the database. By doing so, we will be able to perform SQL tasks and conduct further analysis as part of the project.
@@ -32,4 +35,5 @@ Create following table in Mysql using cleaned datset .csv file
 olympics_history olympics_history_noc_regions
 
 Module 2
+
 Analyzing Data using sql
